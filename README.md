@@ -1,7 +1,7 @@
 <h1 align="center":> Predicting Serious Credit Delinquency </h1>
 
 <p align="center">
-  <img src="/readme_images/credit_delinquency.jpg" alt="credit_delinquency" width="80%" />
+  <img src="/readme_images/credit_delinquency.jpeg" alt="credit_delinquency" width="50%" />
 </p>
 
 ## Table of Contents 
