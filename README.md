@@ -1,5 +1,9 @@
 <h1 align="center":> Predicting Serious Credit Delinquency </h1>
 
+<p align="center">
+  <img src="/readme_images/credit_delinquency.jpg" alt="credit_delinquency" width="80%" />
+</p>
+
 ## Table of Contents 
 1. [➤ About The Project](#About-the-Project)
 2. [➤ Dataset](#Dataset)
