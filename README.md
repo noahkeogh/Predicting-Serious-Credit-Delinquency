@@ -2,7 +2,8 @@
 
 ## Table of Contents 
 1. [➤ About The Project](#About-the-Project)
-2. [➤ Dataset](#Dataset) 
+2. [➤ Dataset](#Dataset)
+3. [➤ Project Files](#Project-Files)
 
 
 ## About the Project 
@@ -40,3 +41,11 @@ There are 11 features in the dataset that represent financial metrics of each bo
 9. <b>NumberRealEstateLoansOrLines</b>: Number of mortgage and real estate loans including home equity lines of credit. This is represented as an integer value.
 10. <b>NumberOfTime60-89DaysPastDueNotWorse</b>: Number of times borrower has been 60-89 days past due but no worse in the last 2 years. This is represented as an integer value.
 11. <b>NumberOfDependents</b>: Number of dependents in family excluding themselves (spouse, children, etc.). This is represented as an integer value.
+
+## Project Files
+1. `data/` || includes the data downloaded from Kaggle. 
+2. `presentation.pdf` || A presentation walking over the entire work of the project and the steps involved.
+3. `Part I - Proposal & Business Objectives.pdf` || summary of the project bjectives.
+4. `Part II - Data Exploration.pdf` || ummary of the data exploration performed.
+5. `Part III - Data Preparation & Modeling.pdf` || summary of the data wrangling and modeling.
+6. `Part IV - Model Optimization.pdf` || summary of how the models were optimized. 
