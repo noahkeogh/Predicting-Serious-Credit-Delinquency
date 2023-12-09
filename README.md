@@ -43,9 +43,10 @@ There are 11 features in the dataset that represent financial metrics of each bo
 11. <b>NumberOfDependents</b>: Number of dependents in family excluding themselves (spouse, children, etc.). This is represented as an integer value.
 
 ## Project Files
-1. `data/` || includes the data downloaded from Kaggle. 
+1. `project_notebook.ipynb` || Jupyter notebook containing all the data wranging, analysis and modeling.
 2. `presentation.pdf` || A presentation walking over the entire work of the project and the steps involved.
 3. `Part I - Proposal & Business Objectives.pdf` || summary of the project bjectives.
 4. `Part II - Data Exploration.pdf` || ummary of the data exploration performed.
 5. `Part III - Data Preparation & Modeling.pdf` || summary of the data wrangling and modeling.
-6. `Part IV - Model Optimization.pdf` || summary of how the models were optimized. 
+6. `Part IV - Model Optimization.pdf` || summary of how the models were optimized.
+7. `data/` || includes the data downloaded from Kaggle. 
